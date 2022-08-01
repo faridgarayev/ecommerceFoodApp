@@ -1,1 +1,1 @@
-# Link - https://faridgarayev.github.io/ecommerceFoodApp
+# https://faridgarayev.github.io/ecommerceFoodApp
